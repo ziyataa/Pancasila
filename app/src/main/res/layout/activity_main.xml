@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@drawable/background">
+
+
+    <Button
+        android:id="@+id/btnPengertian"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="PENGERTIAN "
+        android:onClick="btnPengertian"
+        />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="TUJUAN"
+        android:id="@+id/btnTujuan"
+        android:onClick="btnTujuan"/>
+
+    <Button
+        android:id="@+id/btnSimbol"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="PENJELASAN SIMBOL"
+        android:onClick="btnSimbol"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="ISI PANCASILA"
+        android:id="@+id/btnIsiPancasila"
+        android:onClick="btnIsiPancasila"/>
+</LinearLayout>

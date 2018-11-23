@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TujuanActivity"
+    android:orientation="vertical"
+    android:background="@drawable/menu1">
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:textColor="@color/colorfont"
+        android:textSize="20dp"
+        android:layout_marginLeft="150dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TUJUAN" />
+    <TextView
+        android:layout_marginTop="20dp"
+        android:textColor="@color/colorfont"
+        android:textSize="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dalam pembukaan UUD 1945 telah disebutkan tujuan Pancasila, yaitu sebagai Dasar Negara Republik Indonesia. Dengan kata lain, Pancasila adalah landasan dalam mengatur jalannya pemerintahan di Indonesia. /n
+
+   Pancasila merupakan pandangan hidup atau falsafah hidup berbangsa dan menjadi tujuan hidup bangsa Indonesia. Seperti halnya juga disebutkan dalam ketetapan MPR No. 11/MPR/1978 pada tanggal 22 Maret 1978, yang isinya; /n
+
+   “Sesungguhnya sejarah telah mengungkapkan bahwa pancasila adalah jiwa seluruh rakyat Indonesia yang memberikan kekuatan hidup kepada bangsa Indonesia serta membimbingnya dalam kehidupan lahir batin yang makin baik dalam masyarakat Indonesia yang adil dan makmur. Bahwasanya pancasila yang telah diterima dan ditetapkan sebagai dasar Negara seperti yang telah diuji kebenarannya, keampuhan dan kesaktiannya sehingga tidak ada satupun kekuatan maupun juga yang mampu memisahkan Pancasila dari kehidupan bangsa Indonesia”"/>
+
+
+    </LinearLayout>

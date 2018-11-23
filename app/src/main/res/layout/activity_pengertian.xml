@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PengertianActivity"
+    android:background="@drawable/menu1"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PENGERTIAN PANCASILA"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="@color/colorfont"/>
+
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:textColor="@color/colorfont"
+        android:textSize="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pengertian Pancasila adalah suatu ideologi dan dasar negara Indonesia yang menjadi landasan dari segala keputusan bangsa dan mencerminkan kepribadian bangsa Indonesia. Dengan kata lain, Pancasila adalah dasar dalam mengatur pemerintahan negara Indonesia yang mengutamakan semua komponen di seluruh wilayah Indonesia.
+
+Secara Etimologi, kata “Pancasila” berasal dari bahasa Sansekerta India (Kasta Brahmana), yaitu kata “Panca” yang artinya Lima, dan “Sila” yang artinya Dasar. Sehingga arti Pancasila secara harfiah adalah Lima Dasar.
+
+Pancasila dicetuskan oleh para pendiri bangsa Indonesia agar kita mempunyai pondasi yang kuat dalam menjalankan pemerintahan. Artinya, dengan adanya Pancasila maka Indonesia memiliki dasar atau pondasi dalam bernegara sehingga tidak mudah dipengaruhi dan dijajah oleh bangsa lain.
+
+Dasar negara Indonesia tersebut dilambangkan dengan Garuda dimana terdapat gambar bintang, rantai, pohon beringain, kepala banteng, padi dan kapas, yang mencerminkan arti dari 5 sila Pancasila. Kemudian lambang negara Indonesia ini disebut dengan Garuda Pancasila."/>
+</LinearLayout>
